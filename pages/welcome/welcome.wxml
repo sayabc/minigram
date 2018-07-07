@@ -1,0 +1,12 @@
+<!--pages/welcome/weclome.wxml-->
+<view class='wel-root'>
+  <view class='bgimg-con'>
+     <image class='bgimg' src="../../img/426H1700297-045.jpg"></image>
+  </view>
+  <view class='wel-main'>
+     <text class='main-txt'>王先生 & 李小姐</text>
+     <text class='main-txt'>北京市海淀区</text>
+     <text class='main-txt'>2018年6月9日 </text>
+  </view>
+
+</view>

@@ -1,0 +1,28 @@
+/* pages/welcome/welome.wxss */
+.wel-root {
+  width: 750rpx;
+  height: 100%;
+  text-align: center;
+}
+.bgimg {
+  margin: -280rpx auto 0 -130rpx;
+  width: 967rpx;
+  display: block;
+  height: 1500rpx;
+}
+
+.wel-main {
+  position: absolute;
+  bottom: 100rpx;
+  left: 0;
+  right: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.main-txt {
+  display: block;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.5;
+  color: black;
+}
