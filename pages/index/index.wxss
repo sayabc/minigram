@@ -1,1 +1,34 @@
-/* pages/index/index.wxss */
+.scroll_view {
+  height: 667px;
+  box-sizing: border-box;
+}
+#green {
+  background-color: green;
+  height: 667px;
+}
+#red {
+  background-color: red;
+  height: 667px;  
+}
+#yellow {
+  background-color: yellow;
+  height: 667px;  
+}
+#blue {
+  background-color: blue;
+  height: 667px;  
+}
+
+.btn-area {
+  position: fixed;
+  bottom: 10px;
+}
+.next-btn {
+  text-align: center;
+  color: white;
+  width: 100px;
+  font-size: 16px;
+  border: 1px solid gray;
+  margin: 0 auto;
+  padding: 4px 10px;
+}
